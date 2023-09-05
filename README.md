@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zahidhussainlone153@gmail.com**
 
-- 📄 More Know about me 
+- 📄 More Know about me https://www.linkedin.com/in/zahid-hussain-lone
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
