@@ -1,7 +1,7 @@
 # zahid
 (https://github.com/github.com/zahidlone)
  <h1 align="center">Hi 👋, I'm Zahid Hussain Lone</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate AI/ML Learner</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afroz002&label=Profile%20views&color=0e75b6&style=flat" alt="Zahid" /> </p>
@@ -9,7 +9,7 @@
 - 📫 How to reach me **zahidhussainlone153@gmail.com**
 
 - 📄 More Know about me https://www.linkedin.com/in/zahid-hussain-lone
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
